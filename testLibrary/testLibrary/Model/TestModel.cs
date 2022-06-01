@@ -7,5 +7,7 @@ namespace testLibrary.Model
     public class TestModel
     {
         public string testVariable { get; set; }
+
+        public string secondVariable { get; set; }
     }
 }
